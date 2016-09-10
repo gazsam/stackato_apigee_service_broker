@@ -9,5 +9,3 @@ env:
   APIGEE_REDIS_PASSPHRASE:
   APIGEE_DASHBOARD_URL: https://enterprise.apigee.com/platform/#/
   APIGEE_MGMT_API_URL: https://api.enterprise.apigee.com/v1
-  SECURITY_USER_NAME: arunjacob
-  SECURITY_USER_PASSWORD: fooAndBar1!
